@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="./assets/readme/project-cover.svg" width="100%" alt="API CRUD project cover"/>
+</p>
+
 # API CRUD with Express and MySQL
 
 This is a simple CRUD (Create, Read, Update, Delete) API built using **Express.js** and **MySQL**. The API allows users to interact with a MySQL database and perform basic operations through HTTP requests. The project is tested using **Postman** to ensure all endpoints are working correctly.
